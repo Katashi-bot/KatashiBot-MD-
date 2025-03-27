@@ -1,4 +1,4 @@
-# Katashi–Bot
+# Katashi–Bot-MD
 > <b>🚀 VERSIÓN 3.0</b>
 
 <p align="center"> 
