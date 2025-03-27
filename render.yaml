@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: katashi-bot 
+    env: docker
+    region: Argentina
+    plan: free

@@ -1,0 +1,50 @@
+{
+  "info": {
+
+    "accounts": {
+      "youTube": "https://www.youtube.com/@Katashi-bot",
+      "instagram": "https://www.instagram.com/_frases_isagi?igsh=OW9tM2s2c2NudnQ1",
+      "katashibot_md": "https://github.com/eliann45/Katashi-bot",
+      "gatabot_md": "https://github.com/eliann45/Katashi-bot",
+      "facebook": "https://www.facebook.com/share/168dN7AVCt/",
+      "tiktok": "https://www.tiktok.com/@frases_isagi",
+      "threads": "https://www.threads.net/@federico130",
+      "mercadopago": "kiara.835.axial.mp",
+      "github": "https://github.com/eliann45",
+      "mail": "eliansantana894@gmail.com",
+      "all": "https://atom.bio/vigevanif228"
+    },
+
+    "channels": {
+      "channel1": "https://whatsapp.com/channel/0029Vb3Grj27oQhbX4Bk0u1g",
+      "channel2": "https://whatsapp.com/channel/0029Vb3Grj27oQhbX4Bk0u1g",
+      "channel3": "https://whatsapp.com/channel/0029Vb7qqVUEVccHNUzOnr2Y",
+      "channel4": "https://whatsapp.com/channel/0029Vb7qqVUEVccHNUzOnr2Y"
+    },
+
+    "groups": {
+      "group1": "https://chat.whatsapp.com/IFon3fQibUtKGENnSKEWkk",
+      "group2": "https://chat.whatsapp.com/LkSWzFaEatqHR83Jkp33N8",
+      "group3": "https://chat.whatsapp.com/LkSWzFaEatqHR83Jkp33N8",
+      "group4": "https://chat.whatsapp.com/E4ZxJiCYbvsG95fwPfaLj6",
+      "group5": "https://chat.whatsapp.com/JMM0yzxlqxj7WYax29v3b0",
+      "group6": "https://chat.whatsapp.com/LAAkPVYuiQp4iLI7pSeQVi"
+    },
+
+    "collaboration": {
+      "group1": "https://chat.whatsapp.com/IFon3fQibUtKGENnSKEWkk",
+      "group2": "https://chat.whatsapp.com/IFon3fQibUtKGENnSKEWkk",
+      "group3": "https://chat.whatsapp.com/LAAkPVYuiQp4iLI7pSeQVi",
+      "group4": "https://chat.whatsapp.com/JMM0yzxlqxj7WYax29v3b0"
+    },
+
+
+    "others": {
+      "assistance_num": "https://wa.me/5491126852241",
+      "yt_vid": "https://www.youtube.com/shorts/ZLJYDUM6vSY",
+      "group_support": "https://chat.whatsapp.com/LAAkPVYuiQp4iLI7pSeQVi"
+    }
+
+  }
+}
+
